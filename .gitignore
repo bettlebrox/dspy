@@ -1,0 +1,10 @@
+bin
+__pycache__
+.env
+include
+lib
+dspy.ipynb
+share
+website.json
+opt_cot.json
+compiled.json
