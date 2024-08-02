@@ -52,7 +52,7 @@ trainset = [
     ),
     dspy.Example(
         criteria=[
-            "recently funded company",
+            "Fortune 500 company",
         ],
         list_of_matches=[
             "Walmart",
